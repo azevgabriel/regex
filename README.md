@@ -97,6 +97,11 @@ Para incluir todos os caracteres, utiliza o `.*`.
   <img src="https://github.com/user-attachments/assets/762abf78-55f5-4072-994c-4dbd3e58b13e" height="80px"/>
 </div>
 
+## Flags
+
+- `g` global: Não retorna depois do primeiro acerto
+- `i` insensitive: Considera texto maiúsculo ou minúsculo
+- `m` multiline: Considerar múltiplas linhas na pesquisa
 
 
 
